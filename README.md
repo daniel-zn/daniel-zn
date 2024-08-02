@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @daniel-zn
-- 🌱 I’m currently learning Electrical Engineering at UBC
 - Checkout my website www.danielzn.com to see some interesting things
 
 <!---
